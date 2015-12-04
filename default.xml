@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote name="origin"  fetch="https://github.com/scm002" review="cnbjlx11099.corpusers.net" />
+        <remote name="origin"  fetch="https://github.com/frogelzg" />
         <default revision="master" remote="origin" />
-        <project path="project1" name="project1" />
+        <project path="repo" name="repo" />
+        <project path="program" name="program" />
 </manifest>
